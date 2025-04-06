@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <Hotels> -->
+<Hotel>
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968 8885</Phone>
+        <Phone>800-937 8461</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <ZipCode>85281</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.6">
+        <Name>Drury Inn &amp; Suites Phoenix Airport</Name>
+        <Phone>602-437 8400</Phone>
+        <Address>
+            <Number>3333</Number>
+            <Street>E University Dr</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <ZipCode>85034</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>Hilton Garden Inn Phoenix Airport</Name>
+        <Name>Hilton Garden Inn</Name>
+        <Phone>602-470 0500</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>3422</Number>
+            <Street>E Elwood St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <ZipCode>85040</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.0">
+        <Name>Crowne Plaza Phoenix Airport</Name>
+        <Phone>602-273 7778</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>4300</Number>
+            <Street>E Washington St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <ZipCode>85034</ZipCode>
+        <!-- </Address> -->
+    </Hotel>
+
+    <Hotel>
+        <Name>Holiday Inn Express &amp; Suites Phoenix Airport</Name>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>3401</Number>
+            <Street>E University Dr</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <ZipCode>85034</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.0">
+        <Name>Radisson Hotel Phoenix Airport</Name>
+        <Phone>602-661 3160</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>427</Number>
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <ZipCode>85008</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>Sonesta Select San Francisco Airport Oyster Point Waterfront</Name>
+        <Phone>650-871 4100</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>1300</Number>
+            <Street>Veterans Blvd</Street>
+            <City>South San Francisco</City>
+            <State>CA</State>
+            <ZipCode>94080</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>La Quinta Inn &amp; Suites by Wyndham San Francisco Airport West</Name>
+        <Phone>650-952 3200</Phone>
+        <Address >
+            <Number>1390</Number>
+            <Street>El Camino Real</Street>
+            <City>Millbrae</City>
+            <State>CA</State>
+            <ZipCode>94030</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.7">
+        <Name>Grand Hyatt at SFO</Name>
+        <Phone>650-452 1234</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>55</Number>
+            <Street>South McDonnell Rd</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZipCode>94128</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Aloft San Francisco Airport</Name>
+        <Phone>650-443 5500</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>401</Number>
+            <Street>East Millbrae Ave</Street>
+            <City>Millbrae</City>
+            <State>CA</State>
+            <ZipCode>94030</ZipCode>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>The Westin San Francisco Airport</Name>
+        <Phone>650-692 3500</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>1</Number>
+            <Street>Old Bayshore Hwy</Street>
+            <City>Millbrae</City>
+            <State>CA</State>
+            <ZipCode>94030</ZipCode>
+        </Address>
+    </Hotel>
+</Hotels>
