@@ -9,7 +9,7 @@
             <Street>E.7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
-            <ZipCode>85281</ZipCode>
+            <Zip>85281</Zip>
         </Address>
     </Hotel>
 
@@ -21,7 +21,7 @@
             <Street>E University Dr</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <ZipCode>85034</ZipCode>
+            <Zip>85034</Zip>
         </Address>
     </Hotel>
 
@@ -33,7 +33,7 @@
             <Street>E Elwood St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <ZipCode>85040</ZipCode>
+            <Zip>85040</Zip>
         </Address>
     </Hotel>
 
@@ -45,7 +45,7 @@
             <Street>E Washington St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <ZipCode>85034</ZipCode>
+            <Zip>85034</Zip>
         </Address>
     </Hotel>
 
@@ -57,7 +57,7 @@
             <Street>E University Dr</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <ZipCode>85034</ZipCode>
+            <Zip>85034</Zip>
         </Address>
     </Hotel>
 
@@ -69,7 +69,7 @@
             <Street>N 44th St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <ZipCode>85008</ZipCode>
+            <Zip>85008</Zip>
         </Address>
     </Hotel>
 
@@ -81,7 +81,7 @@
             <Street>Veterans Blvd</Street>
             <City>South San Francisco</City>
             <State>CA</State>
-            <ZipCode>94080</ZipCode>
+            <Zip>94080</Zip>
         </Address>
     </Hotel>
 
@@ -93,7 +93,7 @@
             <Street>El Camino Real</Street>
             <City>Millbrae</City>
             <State>CA</State>
-            <ZipCode>94030</ZipCode>
+            <Zip>94030</Zip>
         </Address>
     </Hotel>
 
@@ -105,7 +105,7 @@
             <Street>South McDonnell Rd</Street>
             <City>San Francisco</City>
             <State>CA</State>
-            <ZipCode>94128</ZipCode>
+            <Zip>94128</Zip>
         </Address>
     </Hotel>
 
@@ -117,7 +117,7 @@
             <Street>East Millbrae Ave</Street>
             <City>Millbrae</City>
             <State>CA</State>
-            <ZipCode>94030</ZipCode>
+            <Zip>94030</Zip>
         </Address>
     </Hotel>
 
@@ -130,7 +130,7 @@
             <Street>Old Bayshore Hwy</Street>
             <City>Millbrae</City>
             <State>CA</State>
-            <ZipCode>94030</ZipCode>
+            <Zip>94030</Zip>
         </Address>
     </Hotel>
 </Hotels>
