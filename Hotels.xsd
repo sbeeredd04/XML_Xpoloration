@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
            
             <!-- xmlns="http://venus.sod.asu.edu/WSRepository/xml" 
@@ -34,12 +35,12 @@
             <xsd:element name="State" type="xsd:string" minOccurs="1" maxOccurs="1"/>
             <xsd:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence>
-        <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
+        <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
 
     <xsd:simpleType name="PhoneType">
         <xsd:restriction base="xsd:string">
-            <xsd:pattern value="\d{3}\-\d{3}-\d{4}"/>
+            <xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
         </xsd:restriction>
     </xsd:simpleType>
 
